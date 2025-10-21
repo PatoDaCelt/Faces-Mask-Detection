@@ -1,0 +1,1 @@
+El Local Binary Patterns Histograms (LBPH) es un algoritmo de reconocimiento facial relativamente simple y puede ser sensible a las variaciones en la iluminación, la pose y la calidad de la imagen. Cuando la calidad de la imagen disminuye al alejarte, el LBPH podría generar características menos discriminativas, llevando a clasificaciones incorrectas.
