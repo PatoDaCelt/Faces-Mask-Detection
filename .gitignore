@@ -1,0 +1,5 @@
+DeteccionMascarillaIntegrandoArduino/env/
+FaceMaskDetection/.venv/
+__pycache__/
+*.pyc
+.vscode/
